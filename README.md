@@ -13,6 +13,7 @@
 	$ mkdir build
 	$ cd build
 	$ cmake ..
+	$ make
 
 **Test:**
 	Suppose we copy NSArray.m (under GNUstep project) to the build directory,
