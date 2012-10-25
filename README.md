@@ -12,6 +12,7 @@
 
 	$ mkdir build
 	$ cd build
+	$ export CC=clang
 	$ cmake ..
 	$ make
 
